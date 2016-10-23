@@ -171,6 +171,19 @@ FIN
     <feed>https://github.com/alatarum/alatar-lay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>alex</name>
+    <description lang="en">Yet another russian gentoo overlay https://alexws54tk.github.io/alex-overlay/</description>
+    <homepage>https://github.com/alexws54tk/alex-overlay/</homepage>
+    <owner type="person">
+      <email>alex@ws54.tk</email>
+      <name>alexws54tk</name>
+    </owner>
+    <source type="git">https://github.com/alexws54tk/alex-overlay.git</source>
+    <source type="git">git://github.com/alexws54tk/alex-overlay.git</source>
+    <source type="git">git@github.com:alexws54tk/alex-overlay.git</source>
+    <feed>https://github.com/alexws54tk/alex-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>alexcepoi</name>
     <description lang="en">Personal User Overlay</description>
     <homepage>https://cgit.gentoo.org/user/alexcepoi.git/</homepage>
